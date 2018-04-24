@@ -20,7 +20,6 @@ ImagemPGM* imagempgm;
 
 int main(){
   system(CLEAR);
-  //cout << string(50, '\n');
   void aplicarCesar();
   void aplicarKeyword();
   int menu;
