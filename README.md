@@ -7,11 +7,11 @@ Manipulação de imagens .ppm e .pgm. Implementar em C++ um programa que receba 
 
 * cd ~ -> ls -> cd OO
 
-* Após o primeiro passo executado insira o comando "make" (que executara o MAKEFILE).
+* Após o primeiro passo executado insira o comando "make" para executar o Makefile.
 
-* Inserir "make run" no terminal para compilar o programa.
+* Inserir "make run" no terminal para compilar o programa. (OBS.: O "make run" também inicia os arquivos da pasta /obj e /bin.)
 
-* O arquivo .ppm/.pgm deve estar na pasta /doc.
+* O arquivo com o formato .ppm/.pgm deve estar na pasta /doc para que o programa funcione.
 
 * Dada a mensagem "Digite o nome do seu arquivo .ppm/.pgm:", inserir o nome da imagem.
 
