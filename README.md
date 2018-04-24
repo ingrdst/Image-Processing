@@ -5,19 +5,19 @@ Manipulação de imagens .ppm e .pgm. Implementar em C++ um programa que receba 
 
 # Etapas:
 
-* cd ~ -> ls -> cd OO
+* cd ~ -> ls -> cd OO;
 
-* Após o primeiro passo executado insira o comando "make" para executar o Makefile.
+* Após o primeiro passo executado insira o comando "make" (que executara o MAKEFILE);
 
-* Inserir "make run" no terminal para compilar o programa. (OBS.: O "make run" também inicia os arquivos da pasta /obj e /bin.)
+* Inserir "make run" no terminal para compilar o programa;
 
-* O arquivo com o formato .ppm/.pgm deve estar na pasta /doc para que o programa funcione.
+* O arquivo .ppm/.pgm deve estar na pasta /doc;
 
-* Dada a mensagem "Digite o nome do seu arquivo .ppm/.pgm:", inserir o nome da imagem.
+* Dada a mensagem "Digite o nome do seu arquivo (.ppm/.pgm):", inserir apenas o nome da imagem;
 
-* Dada a mensagem "Escolha o tipo de manipulação", selecionar o tipo de processamento de imagem desejado para realizar a criptografia.
+* Dada a mensagem "Escolha o tipo de manipulação", selecionar o tipo de processamento de imagem desejado para realizar a criptografia;
 
-* A mensagem decriptada aparecerá no terminal do usuário.
+* A mensagem decriptada aparecerá no terminal do usuário;
 
-* Limpar os arquivos objeto e bin: **$ make clean** 
+* Limpar os arquivos objeto e bin: **$ make clean** .
 
