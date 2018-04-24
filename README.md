@@ -3,7 +3,6 @@
 Manipulação de imagens .ppm e .pgm. Implementar em C++ um programa que receba uma imagem, encontre a mensagem criptografada escondida nos bits da imagem recebida e decifre o código para retornar o texto escondido de forma legível, de acordo com as especificidades de cada tipo de formato de arquivo e de decriptografia. 
 
 -----------------------------------------------------------------------
-Etapas:
 
 * Por meio do terminal acesse a pasta "OO", utilizando os comandos: ls (para listas suas pastas na Home) -> cd OO(Para acessar a pasta). Caso não esteja na home insira o comando "cd ~".
 
@@ -12,7 +11,7 @@ Etapas:
 * Inserir "make run" no terminal para compilar o programa.
 
 -----------------------------------------------------------------------
-# dentro do programa siga os proximos passos:
+# Etapas:
 
 *** O arquivo .ppm/.pgm deve estar na pasta /doc.
 
