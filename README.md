@@ -15,7 +15,7 @@ Manipulação de imagens .ppm e .pgm. Implementar em C++ um programa que receba 
 
 * Dada a mensagem "Digite o nome do seu arquivo (.ppm/.pgm):", inserir apenas o nome da imagem;
 
-* Dada a mensagem "Escolha o tipo de manipulação", selecionar o tipo de processamento de imagem desejado para realizar a criptografia;
+* Dada a mensagem "Escolha o tipo de manipulação", selecionar o tipo de processamento desejado para realizar a criptografia;
 
 * A mensagem decriptada aparecerá no terminal do usuário;
 
