@@ -1,11 +1,11 @@
-# EP1 - Orientação a Objetos (UnB- Gama/FGA)
+# EP1 - Orientação a Objetos (UnB-FGA 2018/1)
 
 Manipulação de imagens .ppm e .pgm. Implementar em C++ um programa que receba uma imagem, encontre a mensagem criptografada escondida nos bits da imagem recebida e decifre o código para retornar o texto escondido de forma legível, de acordo com as especificidades de cada tipo de formato de arquivo e de decriptografia. 
 
 -----------------------------------------------------------------------
 Etapas:
 
-* Por meio do terminal acesse a pasta "TP1", utilizando os comandos: ls (para listas suas pastas na Home) -> cd EP1(Para acessar a pasta). Caso não esteja na home insira o comando "cd ~".
+* Por meio do terminal acesse a pasta "OO", utilizando os comandos: ls (para listas suas pastas na Home) -> cd OO(Para acessar a pasta). Caso não esteja na home insira o comando "cd ~".
 
 * Após o primeiro passo executado insira o comando "make" (que executara o MAKEFILE).
 
